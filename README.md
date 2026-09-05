@@ -1,4 +1,2 @@
-Hello Git 
-Second line 
-Changed from GitHub
-
+salam morteza ashrafi
+in avalin code ma tuye GitHub hastesh 
